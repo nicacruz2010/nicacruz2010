@@ -1,29 +1,18 @@
 👩‍💻 Apresentação
 
-Nome: Nicoli Carolayne Archanjo da Cruz
-Idade: 16 anos
-📍 Residente em Americana – SP
-🎓 Estudante
+Meu nome é Nicoli Carolayne Archanjo da Cruz, tenho 16 anos e moro em Americana – SP. Sou estudante da Escola Heitor Penteado, cursando o 2º ano do Ensino Médio e a formação técnica em Informática.
 
-📚 Formação
+🎓 Qualificações
 
-Estudante da Escola Heitor Penteado
-Cursando o 2º ano do Ensino Médio
-💻 Cursando formação técnica em Informática
-
-🌎 Qualificações
-
-Curso de Inglês (2021–2022)
-Nível: Básico
+\- Curso de Inglês (2021–2022) — nível básico.
 
 ✨ Habilidades
 
-⚡ Aprendizado rápido
-🗣️ Boa comunicação
-🤝 Facilidade para trabalho em equipe
-💡 Interesse por tecnologia
+- Facilidade para aprender.
+- Boa comunicação.
+- Trabalho em equipe.
+- Interesse por tecnologia.
 
-🎯 Objetivo
+🎯 Objetivo Profissional
 
-Buscar oportunidades na área de informática
-📈 Desenvolver habilidades e adquirir experiência profissional
+Busco oportunidades na área de Informática para desenvolver minhas habilidades, adquirir experiência e crescer profissionalmente.
